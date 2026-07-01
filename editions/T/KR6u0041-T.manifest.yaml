@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6u0041/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0041/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 現在十方千五百佛名並雜佛同號
+  identifiers:
+    krp: KR6u0041
+    cbeta: T85n2905
+    cbeta_old_id: T85n2905
+    authorityid: CA0004918
+    json_key: T2905
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2905.xml
+    old_id: T85n2905
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0041_000-T.yaml, hash: 'sha256:c9454f09a89aa6eaa149a32b9f7a7229c6c7b3b6049f31fffc8c51f16da353d5'}
+  - {seq: 1, filename: KR6u0041_001-T.yaml, hash: 'sha256:73171b25f7185df5e142fbfebcddb629a544bfa88171e65855b7adbaaec87fde'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0041_000-T.markers.yaml, hash: 'sha256:94c3e399f00e11fb49978d714b443903eb3dff4dcaa63a17f025c32e69ccf983'}
+  - {seq: 1, role: markers, filename: assets/KR6u0041_001-T.markers.yaml, hash: 'sha256:92b14b72589dd43c19e11cf536f193da2ec66ff4aa589832e36199aa5c449403'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0041_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3669
+  label: '現在十方千五百佛名並雜佛
+
+    同號'
+  type: juan
+  level: 1
+hash: sha256:62216163396b0ba8361ea67e0bfc33c0da0d552a2613d47aa444a26917e470c4
