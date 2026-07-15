@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0041/v1
 canonical_location: https://kanripo.org/bkk/KR6u0041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 現在十方千五百佛名並雜佛同號
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0041_000.yaml, hash: 'sha256:c9454f09a89aa6eaa149a32b9f7a7229c6c7b3b6049f31fffc8c51f16da353d5'}
-  - {seq: 1, filename: KR6u0041_001.yaml, hash: 'sha256:73171b25f7185df5e142fbfebcddb629a544bfa88171e65855b7adbaaec87fde'}
+  - {seq: 1, filename: KR6u0041_001.yaml, hash: 'sha256:bf43c96854e2134725ca8fecc18a038648a4955772d66626cf9b36af4d4ecb7c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0041_000.markers.yaml, hash: 'sha256:aada6e8e8b7d5860d9cd95681a158bb386da80fa2390ebbba637c935d3f353ab'}
-  - {seq: 1, role: markers, filename: assets/KR6u0041_001.markers.yaml, hash: 'sha256:88ae1ed39d9b15db923a76a964f921d2da02849993e9eb4b0a3698692d327adc'}
+  - {seq: 1, role: markers, filename: assets/KR6u0041_001.markers.yaml, hash: 'sha256:79d37cfc9d5a07b29322d0dcab24d2561a11dabdd1cca714faa2763286338024'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     同號'
   type: juan
   level: 1
-hash: sha256:560b4b266120451f8b3ed77fe1eb5c128c7f0d26f31ad825b66acffb1bf773b9
+hash: sha256:822e81447c21977ef33917de5bc7f5d9094eef2706e75ad5c49337e6c15c350b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
